@@ -1,6 +1,5 @@
 {
   "routes": {
-    "/":        "./public",
-    "/assets/": "./bower_components"
+    "/":        "./public"
   }
 }
